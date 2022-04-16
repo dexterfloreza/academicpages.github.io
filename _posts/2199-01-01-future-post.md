@@ -4,6 +4,8 @@ date: 2022-04-16
 permalink: /posts/2022/01/blog-post-1/
 tags:
   - personal
+  - research
+  - academics
 ---
 
 Welcome to my webpage! My name is Dexter Ryan Floreza and I am a second-year computer engineering undergraduate student at Ryerson University in Toronto, Canada. 
