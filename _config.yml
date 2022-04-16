@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dexter Ryan Floreza"
 title_separator          : "-"
 name                     : &name "Dexter Ryan Floreza"
-description              : &description "Computer Engineering Student at Ryerson University."
+description              : &description "Computer Engineering Undergraduate Student at Ryerson University."
 url                      : https://dexterfloreza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dexterfloreza.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dexter Ryan Floreza"
   avatar           : "profile.png"
-  bio              : "Computer Engineering Student at Ryerson University, Math and Philosophy Minor"
+  bio              : "Computer Engineering Undergraduate Student at Ryerson University"
   location         : "Toronto, Canada"
   employer         :
   pubmed           : 
